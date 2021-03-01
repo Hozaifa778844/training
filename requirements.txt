@@ -4,3 +4,6 @@ emoji
 typr option
 colors
 vibrant
+
+dark mode
+video calls
